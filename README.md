@@ -54,4 +54,4 @@ This project is licensed under the MIT License.
 
 ## Live Link
 
-You can access the website [here](http://127.0.0.1:5500/index.html#).
+You can access the website [here] https://ryvenn127.github.io/Marquez_Aldwinn_John_F_Website/).

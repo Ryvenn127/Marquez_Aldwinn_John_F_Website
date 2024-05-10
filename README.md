@@ -9,6 +9,7 @@ This is a portfolio website for Aldwinn John Marquez, a full-stack developer bas
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Credits](#credits)
 - [Live Link](#live-link)
 
 ## Introduction
@@ -39,6 +40,18 @@ Contributions to improve the website are welcome! If you have any suggestions, f
 
 This project is licensed under the MIT License.
 
+## Credits
+
+- Bootstrap 5 - [https://getbootstrap.com/](https://getbootstrap.com/)
+- Google Fonts - [https://fonts.google.com/](https://fonts.google.com/)
+- Boxicons - [https://boxicons.com/](https://boxicons.com/)
+- jQuery - [https://jquery.com/](https://jquery.com/)
+- Typed JS - [https://github.com/mattboldt/typed.js](https://github.com/mattboldt/typed.js)
+- Owl Carousel - [https://owlcarousel2.github.io/OwlCarousel2/](https://owlcarousel2.github.io/OwlCarousel2/)
+- Scroll JS - [https://github.com/cmpolis/scrollIt.js](https://github.com/cmpolis/scrollIt.js)
+- Images - [https://unsplash.com/](https://unsplash.com/)
+- Images - [https://www.freepik.com/](https://www.freepik.com/)
+
 ## Live Link
 
-You can access the website [here][(http://127.0.0.1:5500/index.html#)](https://ryvenn127.github.io/Marquez_Aldwinn_John_F_Website/).
+You can access the website [here](http://127.0.0.1:5500/index.html#).
